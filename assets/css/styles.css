@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+:root {
+  --azul-bokking: #003580;
+}
+
+body {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.AzulBooking {
+  background-color: var(--azul-bokking);
+}
+
+.Navsize {
+  padding: 12px 32px 8px 32px;
+  margin: 0px 104.55px;
+}
+
+.NavText {
+  color: #fff;
+  /* font-size: 15px;
+  font-weight: 500; */
+}
+
+.btn-padding {
+  padding: 8px 12px;
+  margin: 8px 8px 0 0;
+}
+
+.IColombia img {
+  height: 25px;
+}
+
+.IQuestion i {
+  font-size: 20px;
+}
+
+.BtnVar {
+  margin: 8px 8px 0 0;
+  padding: 4px 12px;
+  /* height: 28px;
+  width: 110px; */
+}
