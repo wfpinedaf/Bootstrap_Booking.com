@@ -12,14 +12,14 @@ body {
 }
 
 .Navsize {
-  padding: 12px 32px 8px 32px;
+  /* padding: 12px 100px 8px 100px; Usado antes para primera nav*/
   margin: 0px 104.55px;
 }
 
 .NavText {
   color: #fff;
   font-size: 15px;
-  font-weight: 5s00;
+  font-weight: 500;
 }
 
 .btn-padding {
@@ -40,4 +40,15 @@ body {
   padding: 4px 12px;
   /* height: 28px;
   width: 110px; */
+}
+
+.btn-VarTex {
+  font-size: 14px;
+  color: #0071c2;
+  font-weight: 450;
+}
+
+.li-lp {
+  margin-right: 10px;
+  color: #fff;
 }
