@@ -49,6 +49,12 @@ body {
 }
 
 .li-lp {
-  margin-right: 10px;
+  margin-right: 5px;
   color: #fff;
+  padding: 0px 10px;
+}
+
+.SecondNav span {
+  padding: 11px 10px;
+  font-size: 13px;
 }
